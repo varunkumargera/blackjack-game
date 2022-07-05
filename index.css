@@ -1,0 +1,28 @@
+body{
+	font-family: Trebuchet MS;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+h1{
+	color: red;
+	text-align: center;
+	
+}
+
+#message{
+	font-style: italic;
+	
+}
+button{
+	width: 150px;
+	background-color: red;
+	color: yellow;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: none;
+	border-radius:2px;
+	margin-bottom: 4px;
+	margin-top: 4px;
+}
